@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q5Wjx8taKceamKNS6w66GaPM/RhUE8rqZ74p+dZxu7hcg9y/t7CprIkl1JEoYOnATxwIgGH0fkvw8h/YdPD2iw==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Challenge\\Challenge.Sabra\\Challenge.Sabra\\Challenge.Sabra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fernando\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Fernando\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Fernando\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Fernando\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512",
+    "C:\\Users\\Fernando\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
